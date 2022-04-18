@@ -8,6 +8,17 @@ canvas {
 
 .title{
   font-size: xx-large;
+  position: absolute;
+  left: 600px;
+  top: -10px;
+  font-style: italic;
+}
+.name{
+  font-size: x-large;
+  position: absolute;
+  left: 680px;
+  top: 75px;
+  color: aqua
 }
 
 #my-container{
